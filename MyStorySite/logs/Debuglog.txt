@@ -1,0 +1,3 @@
+2017-08-02 19:35:17,361 [11] DEBUG DebugLog [(null)] - Error in Index
+System.DivideByZeroException: Attempted to divide by zero.
+   at MyStorySite.Controllers.HomeController.Index() in E:\Work\MyStorySite\MyStorySite\Controllers\HomeController.cs:line 20

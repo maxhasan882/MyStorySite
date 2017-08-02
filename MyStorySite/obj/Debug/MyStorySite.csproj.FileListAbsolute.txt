@@ -86,3 +86,5 @@ E:\Work\MyStorySite\MyStorySite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\Work\MyStorySite\MyStorySite\obj\Debug\MyStorySite.csprojResolveAssemblyReference.cache
 E:\Work\MyStorySite\MyStorySite\obj\Debug\MyStorySite.dll
 E:\Work\MyStorySite\MyStorySite\obj\Debug\MyStorySite.pdb
+E:\Work\MyStorySite\MyStorySite\bin\log4net.dll
+E:\Work\MyStorySite\MyStorySite\bin\log4net.xml
